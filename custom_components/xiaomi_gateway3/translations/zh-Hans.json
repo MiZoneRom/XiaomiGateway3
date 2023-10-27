@@ -6,7 +6,7 @@
       "cant_connect": "无法连接到网络",
       "wrong_model": "网关型号不支持",
       "wrong_token": "错误的网关Token",
-      "wrong_telnet": "错误的打开telnet命令",
+      "wrong_telnet": "错误的打开telnet命令 Faild",
       "verify": "点击链接去验证"
     },
     "step": {
